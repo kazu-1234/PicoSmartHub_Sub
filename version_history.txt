@@ -1,0 +1,1 @@
+v1.0.0 - GitHub公開用として新規作成/リネーム(PicoSmartHub_Sub)、パスワードやAPI情報の削除
